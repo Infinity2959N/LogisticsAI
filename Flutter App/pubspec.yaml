@@ -1,0 +1,22 @@
+name: logistics_ai
+version: 1.0.0+1
+description: An app for optimizing logistics routes.
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.1.0
+  geolocator: ^10.1.0
+  flutter_dotenv: ^5.1.0
+  google_maps_flutter: ^2.5.0
+  cupertino_icons: ^1.0.2
+  url_launcher: ^6.2.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  assets:
+    - .env
