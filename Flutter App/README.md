@@ -86,7 +86,7 @@ GOOGLE_MAPS_API_KEY=your_api_key_here
 #### 3. **Configure Android SDK Path**
 Edit `android/local.properties`:
 ```properties
-sdk.dir=C:\\Users\\YourUsername\\AppData\\Local\\Android\\sdk
+sdk.dir=C:\\Users\\[YourUsername]\\AppData\\Local\\Android\\sdk
 flutter.sdk=C:\\flutter
 ```
 

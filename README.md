@@ -59,7 +59,7 @@ Based on extensive benchmarking across 12 different problem sizes (5-60 cities):
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/LogisticsAI.git
+   git clone https://github.com/Infinity2959N/LogisticsAI.git
    cd LogisticsAI
    ```
 
